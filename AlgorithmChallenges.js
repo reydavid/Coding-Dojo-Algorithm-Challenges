@@ -1,3 +1,5 @@
+/* var use only. const/let does not work on site */
+
 /*
 1. Get 1 to 255
 Write a function that returns an array with all the numbers from 1 to 255. You may use the push() function for this exercise.
